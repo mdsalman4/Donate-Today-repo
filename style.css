@@ -22,8 +22,40 @@ body {
     text-decoration: none;
     padding: 10px 20px;
     color: white;
+    margin-top: 50px;
+    margin-bottom: 40px;
 }
 
 .font {
     font-size: 40px;
+}
+
+.section2 {
+    text-align: center;
+}
+
+.div1 {
+    display: flex;
+    padding-left: 250px;
+
+}
+
+.ja {
+    padding: 20px;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+
+.section3 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section4 {
+    display: flex;
+}
+
+.div2 {
+    margin: 30px;
+    padding: 20px;
 }
