@@ -1,0 +1,29 @@
+body {
+    font-family: 'Anton', sans-serif;
+
+}
+
+.section1 {
+    text-align: center;
+    background-image: url(images/donation7.jpg);
+    color: white;
+    height: 500px;
+
+}
+
+.position {
+    padding-top: 300px;
+    padding-right: 400px;
+    padding-left: 400px;
+}
+
+.ankor {
+    background-color: orange;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+}
+
+.font {
+    font-size: 40px;
+}
